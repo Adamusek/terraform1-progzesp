@@ -1,11 +1,11 @@
 variable "resource_group" {
   description = "The resource group"
-  default = "programowanie_grupowe11"
+  default = "programowaniegrupoweeee"
 }
 
 variable "application_name" {
   description = "The Spring Boot application name"
-  default     = "programowaniegrupowe12"
+  default     = "programowaniegrupoweeeeee"
 }
 
 variable "location" {
